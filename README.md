@@ -1,16 +1,60 @@
-## Hi there 👋
+# Olá! Eu sou a Julia 👋
 
-<!--
-**teixeiraj79/teixeiraj79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Engenheira de Dados | AWS | Python | SQL
 
-Here are some ideas to get you started:
+Sou Engenheira de Dados com experiência no desenvolvimento de soluções de dados em ambiente AWS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, estou aprofundando meus conhecimentos em Engenharia de Dados, arquitetura de dados, processamento distribuído e tecnologias de Cloud.
+
+---
+
+## 🛠️ Tecnologias
+
+### Engenharia de Dados
+- Python
+- SQL
+- PySpark
+- Apache Spark
+- ETL / ELT
+
+### AWS
+- Amazon S3
+- AWS Glue
+- Amazon Athena
+- AWS Lambda
+- AWS Step Functions
+
+### DevOps
+- Git
+- GitHub
+- Terraform
+- CI/CD
+
+### Bancos de Dados
+- PostgreSQL
+- DynamoDB
+
+---
+
+## 📚 Atualmente estudando
+
+- Engenharia de Dados
+- Apache Spark / PySpark
+- Arquitetura de Dados
+- Data Lake & Lakehouse
+- Databricks
+- GenAI
+
+---
+
+## 🚀 Projetos
+
+### TBD
+
+Projetos de Engenharia de Dados em desenvolvimento.
+
+---
+
+## 📫 Contato
+
+- LinkedIn: TBD## Hi there 👋
