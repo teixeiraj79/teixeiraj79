@@ -57,4 +57,4 @@ Projetos de Engenharia de Dados em desenvolvimento.
 
 ## 📫 Contato
 
-- LinkedIn: TBD## Hi there 👋
+- LinkedIn: TBD
